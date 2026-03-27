@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+nav div{
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: row;
+ text-transform: uppercase;
+}
+.academy{
+  display:flex
+  
+
+}
+
+
+/* 
+ <!-- <title>39-poom-colmar</title> -->
+    <!-- <link rel="stylesheet" href="style.css"/> --> */
